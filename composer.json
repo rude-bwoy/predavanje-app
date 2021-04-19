@@ -2,6 +2,7 @@
 {
     "name": "ln-github/test-001",
     "description": "Testiranje GitHub Actions CI sustava",
+    "license": "MIT",
     "require": {
         "php" : "7.4"
     },
