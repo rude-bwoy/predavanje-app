@@ -29,7 +29,7 @@
         echo date('d.m.Y H:i:s', time());
 
         echo '<br><br>';
-
+        echo 'Evo nešto novo za Heroku!';
     ?>
     <hr>
     <form action="" method="post">
